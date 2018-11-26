@@ -25,9 +25,9 @@ html {
   background-color: #785439;
   border-radius: 8px;
   color: #f0eee8;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .link-card:hover .btn {
@@ -44,10 +44,10 @@ dl {
 }
 
 h2 {
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-size: 1.5rem;
   color: #512200;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 p {
