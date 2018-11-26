@@ -12,6 +12,7 @@ html {
   border-color: #9a816d;
   background-color: #dcd4cd;
   border-width: 3px;
+  border-radius: 3px;
 }
 
 .link-card:hover {
@@ -26,4 +27,13 @@ html {
 
 .link-card:hover .btn {
   background-color: #512200;
+}
+
+.btn-wrap {
+  border-radius: 8px;
+}
+
+dl {
+  border-top: 2px solid #9a816d;
+  border-bottom: 2px solid #9a816d;
 }
