@@ -43,7 +43,7 @@ dl {
   display: inline-block;
 }
 
-h2 {
+.link-card h2 {
   font-family: Dosis, sans-serif;
   font-size: 1.5rem;
   color: #512200;
@@ -58,7 +58,6 @@ p {
 
 dd {
   font-style: italic;
-  display: inline-block;
 }
 
 dt {
