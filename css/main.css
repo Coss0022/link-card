@@ -1,7 +1,29 @@
 html {
   box-sizing: border-box;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.link-card {
+  display: block;
+  border-color: #9a816d;
+  background-color: #dcd4cd;
+  border-width: 3px;
+}
+
+.link-card:hover {
+  background-color: #cabdb2;
+  border-color:;
+  color:
+}
+
+.btn {
+  background-color: #785439;
+}
+
+.link-card:hover .btn {
+  background-color: #512200;
 }
