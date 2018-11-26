@@ -59,4 +59,9 @@ p {
 
 dd {
   font-style: italic;
+  display: inline-block;
+}
+
+dt {
+  display: inline-block;
 }
