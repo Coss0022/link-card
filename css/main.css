@@ -15,6 +15,7 @@ html {
   border-width: 3px;
   border-radius: 3px;
   text-decoration: none;
+  display: inline-block;
 }
 
 .link-card:hover {
