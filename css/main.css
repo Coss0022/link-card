@@ -15,6 +15,7 @@ html {
   border-width: 3px;
   border-radius: 3px;
   text-decoration: none;
+  padding: .4em .75em .5em;
 }
 
 .link-card:hover {
@@ -62,8 +63,4 @@ dd {
 
 dt {
   display: inline-block;
-}
-
-body {
-  padding: .4em .75em .5em;
 }
