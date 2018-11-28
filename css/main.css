@@ -50,12 +50,14 @@ dl {
   font-size: 1.5rem;
   color: #512200;
   font-weight: bolder;
+  margin: 0 0 1rem;
 }
 
 p {
   font-family: Georgia, serif;
   font-size: 1rem;
   color: #512200;
+  margin: 0 0 1rem;
 }
 
 dd {
