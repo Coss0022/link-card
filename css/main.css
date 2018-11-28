@@ -58,8 +58,13 @@ p {
   color: #512200;
 }
 
+dt {
+  display: inline-block;
+}
+
 dd {
   font-style: italic;
+  display: inline-block;
 }
 
 .btn-wrap {
