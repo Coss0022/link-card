@@ -60,6 +60,7 @@ p {
 
 dt {
   display: inline-block;
+  width: 35%;
 }
 
 dd {
@@ -70,17 +71,4 @@ dd {
 .btn-wrap {
   text-align: center;
   padding: .4em .75em .5em;
-}
-
-dl.inline dd {
-  display: inline;
-  margin: 0;
-}
-dl.inline dd:after{
-  display: block;
-  content: '';
-}
-dl.inline dt{
-  display: inline-block;
-  min-width: 100px;
 }
