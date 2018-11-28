@@ -10,10 +10,10 @@ html {
 
 .link-card {
   display: block;
-  border-color: #9a816d;
   background-color: #dcd4cd;
   border-width: 3px;
   border-radius: 3px;
+  border-color: #9a816d;
   text-decoration: none;
   padding: .4em .75em .5em;
 }
