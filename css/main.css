@@ -63,3 +63,7 @@ dd {
 dt {
   display: inline-block;
 }
+
+body {
+  padding: .4em .75em .5em;
+}
