@@ -29,6 +29,7 @@ html {
   font-family: Dosis, sans-serif;
   font-size: 1.125rem;
   font-weight: bolder;
+  padding: 1rem;
 }
 
 .link-card:hover .btn {
@@ -63,4 +64,9 @@ dd {
 
 dt {
   display: inline-block;
+}
+
+.btn-wrap {
+  display: inline-block;
+  text-align: center;
 }
